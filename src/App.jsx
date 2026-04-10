@@ -115,7 +115,7 @@ function App() {
 
       <footer className="footer-section">
         <p>&copy; {new Date().getFullYear()} {header.name}. All rights reserved.</p>
-        <p className="sub-footer">Built with React.</p>
+
       </footer>
     </div>
   );
